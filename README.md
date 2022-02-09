@@ -7,4 +7,4 @@ Hello
 This is for DSCI 100 Version Control Worksheet
 
 
-Project creation date: Feb 8th, 2022. 
+Project creation date: Feb 8th, 2022.
